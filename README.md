@@ -1,8 +1,8 @@
-##Proyecto IA Clustering
+## Proyecto IA Clustering
 
 Este es mi Proyecto del curso de inteligencia artificial donde implemente algoritmos de Clustering, entre ellos KMeans y Hierarchical Clustering.
 
-##Software Necesarios
+## Software Necesarios
 
 Se necesitan diferentes librerías para poder utilizar estos códigos sin inconvenientes.
 
